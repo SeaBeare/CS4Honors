@@ -1,0 +1,24 @@
+I. Thesis
+    Artificial Intelligence is being utilized by many people to subsize their work, help them
+    communicate with other people, and even to tutor them in some cases. But what if AI used other
+    AI to do the same for its own purposes. Cases like AlphaGeometry, created by the AI lab
+    DeepMind, show this to be potentially a fruitful approach. In their paper they claim to have used
+    a language model to assist a deduction engine to solve Olympiad-level geometry problems. In
+    my project I intend to show that large generative models can assist in creating and fine tuning
+    smaller, rigid models to accomplish narrow tasks that the large model would be incapable of
+    solving on its own.
+II. Method
+    First would be to do research into the potential novel and interesting problems that the
+    models would be best used to solve. Some examples being utilizing a C++ physics engine to
+    design virtual robots to achieve a goal or using already built software such as video games for
+    the models to discover the best techniques to beat the game. The next step is to then decide on
+    the best models to solve the problems. Potentially pairing things like Reinforcement Learning
+    and a Large Language Model. The RL can be used as the small model to solve the narrow
+    problem while the LLM can be used to analyze results and suggest changes to the RL model.
+    Lastly reporting on the success or failure to reproduce the benefits of having a creative and rigid
+    models working in tandem. This might include cases of attempting to do utilize just one model
+    without the other in the loop to compare with both working in tandem.
+III. Outcome
+    The outcome of the project will be a program that includes a problem for the models to
+    solve and the two models that will be tied into the project code. There will also be a formal
+    report with information on my results and how to replicate every step taken in the project.
