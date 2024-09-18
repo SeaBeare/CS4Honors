@@ -27,7 +27,7 @@
         - Pacman
         - 2048
         - https://osgameclones.com/ Got a few options here
-            -Rogue likes might be good, has good measureable states plus policy tweeking for RL
+            -Rogue likes might be good, has easily measureable states such as level, hp, enemies killed, ect. and randomized enviroments to force abstract policies
     #Basic Boring online DATA 
         - eww no
     #
